@@ -37,7 +37,7 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 **:sparkles: Some of my projects:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=miui-updates-tracker)](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=xiaomi-flashable-firmware-creator.py)]( https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=xiaomi-flashable-firmware-creator)](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androidtrackers&repo=codeaurora-releases-tracker)](https://github.com/androidtrackers/codeaurora-releases-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androidtrackers&repo=oneplus-updates-tracker)](https://github.com/androidtrackers/oneplus-updates-tracker)
 
