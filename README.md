@@ -38,12 +38,11 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=miui-updates-tracker)](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=xiaomi-flashable-firmware-creator)](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androidtrackers&repo=codeaurora-releases-tracker)](https://github.com/androidtrackers/codeaurora-releases-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androidtrackers&repo=oneplus-updates-tracker)](https://github.com/androidtrackers/oneplus-updates-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yshalsager&repo=ebook-converter-bot)](https://github.com/yshalsager/ebook-converter-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yshalsager&repo=facebook2rss)](https://github.com/yshalsager/facebook2rss)
 
 **:pushpin: Profile overview:**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yshalsager.yshalsager)
 
-![yshalsager Github
-Stats](https://github-readme-stats.vercel.app/api?username=yshalsager&show_icons=true)
+![yshalsager Github Stats](https://github-readme-stats.vercel.app/api?username=yshalsager&show_icons=true)
