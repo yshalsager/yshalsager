@@ -1,6 +1,6 @@
 👋 Hi there! I'm Youssif (or better known as yshalsager on the internet),
 [XiaomiFirmwareUpdater](https://github.com/XiaomiFirmwareUpdater/) Project Lead Developer, XDA Recognized Developer,
-Self-taught Programmer, and trainee writer at Loghat El-asr magazine.
+Self-taught Programmer, and writer at Loghat El-Asr magazine.
 
 ✨ I've been coding in Python since 2018, mostly for web scraping, automation, chatbots, and building other cool projects.
 Also, I've been tinkering with Android software development since 2014, building mods, custom recoveries, and custom ROMs
@@ -46,3 +46,8 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yshalsager.yshalsager)
 
 ![yshalsager Github Stats](https://github-readme-stats.vercel.app/api?username=yshalsager&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshalsager&layout=compact&hide=c%2B%2B,c,makefile)]
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=yshalsager&theme=flat&row=1&column=8&no-bg=true"/>
+</p>
