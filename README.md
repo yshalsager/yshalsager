@@ -1,6 +1,6 @@
 👋 Hi there! I'm Youssif, or better known as yshalsager on the internet :)
 
-✨ Experienced Software Developer, Open Source Enthusiast and Technical Writer, with demonstrated expertise in building tools, websites, and chatbots! You can find more information about me [here](https://yshalsager.com/Youssif_Shaaban_yshalsager_Resume.pdf).
+✨ Experienced Software Developer, Open Source Enthusiast and Technical Writer, with demonstrated expertise in building tools, websites, and chatbots! You can find more information about me [here](https://yshalsager.com/resume/Youssif_Shaaban_yshalsager_Resume.pdf).
 Also, I am known for android modding and related works, as I have been tinkering with Android software development since 2014, building mods, custom recoveries, and custom ROMs
 for Android devices. You can find my android related works on [XDA
 fourms](https://forum.xda-developers.com/member.php?u=6084385).
