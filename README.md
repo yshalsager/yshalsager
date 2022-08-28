@@ -32,20 +32,17 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white"> <img
     src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
 
-**:sparkles: Some of my projects:**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=miui-updates-tracker)](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaomiFirmwareUpdater&repo=xiaomi-flashable-firmware-creator)](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yshalsager&repo=ebook-converter-bot)](https://github.com/yshalsager/ebook-converter-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yshalsager&repo=facebook2rss)](https://github.com/yshalsager/facebook2rss)
-
 **:pushpin: Profile overview:**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yshalsager.yshalsager)
 
-![yshalsager Github Stats](https://github-readme-stats.vercel.app/api?username=yshalsager&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshalsager&layout=compact&hide=c%2B%2B,c,makefile)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yshalsager&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yshalsager&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yshalsager&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yshalsager&theme=github)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yshalsager&theme=flat&row=1&column=8&no-bg=true"/>
-</p>
+
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=yshalsager&theme=flat&row=1&column=8&no-bg=false"/>
+</div>
