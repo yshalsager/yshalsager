@@ -9,7 +9,7 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white&link=https://www.gitlab.com/yshalsager/)](https://www.gitlab.com/yshalsager/) [![XDA Badge](https://img.shields.io/badge/-XDA%20Developers-F59812?style=flat&logo=XDA%20Developers&logoColor=white&link=https://forum.xda-developers.com/member.php?u=6084385)](https://forum.xda-developers.com/member.php?u=6084385) <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yshalsager/)](https://www.linkedin.com/in/yshalsager/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yshalsager)](https://twitter.com/yshalsager) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yshalsager)](https://t.me/yshalsager) <br />
-[![Discord Badge](https://img.shields.io/badge/Discord-yshalsager%232066-7289DA?style=flat&logo=Discord&logoColor=white)](#)
+[![Discord Badge](https://img.shields.io/badge/Discord-yshalsager-7289DA?style=flat&logo=Discord&logoColor=white)](#)
 [![e-mail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@yshalsager.com)](mailto:contact@yshalsager.com)
 
 **:wrench: Languages and Tools:**
