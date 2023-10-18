@@ -24,7 +24,8 @@ fourms](https://forum.xda-developers.com/member.php?u=6084385).
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img
     src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img
     src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"> <img 
+    src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img
     src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"> <img
     src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white"> <img
