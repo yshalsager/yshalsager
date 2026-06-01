@@ -40,6 +40,7 @@ Also, I am known for android modding and related works, as I have been tinkering
 
 - [personal_website](https://github.com/yshalsager/personal_website)
 - [digital-garden](https://github.com/yshalsager/digital-garden)
+- [israa-typora-theme](https://github.com/yshalsager/israa-typora-theme)
 
 </td>
 <td valign="top" width="33%">
