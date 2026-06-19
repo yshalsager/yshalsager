@@ -57,6 +57,11 @@ Also, I am known for android modding and related works, as I have been tinkering
 - [miui-updates-tracker](https://github.com/yshalsager/miui-updates-tracker)
 - [xiaomi-flashable-firmware-creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator)
 
+### Others
+
+- [grayjay-plugins](https://github.com/yshalsager/grayjay-plugins)
+- [sqlite-tokenizer-ar](https://github.com/yshalsager/sqlite-tokenizer-ar)
+
 </td>
 </tr>
 </table>
