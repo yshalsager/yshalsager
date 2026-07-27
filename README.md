@@ -59,6 +59,7 @@ Also, I am known for android modding and related works, as I have been tinkering
 
 ### Others
 
+- [raycast-quran-search](https://github.com/yshalsager/raycast-quran-search)
 - [grayjay-plugins](https://github.com/yshalsager/grayjay-plugins)
 - [sqlite-tokenizer-ar](https://github.com/yshalsager/sqlite-tokenizer-ar)
 
