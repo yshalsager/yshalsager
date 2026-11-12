@@ -23,6 +23,7 @@ Also, I am known for android modding and related works, as I have been tinkering
 
 - [logseq-selfhost](https://github.com/yshalsager/logseq-selfhost)
 - [calibre-with-kfx](https://github.com/yshalsager/calibre-with-kfx)
+- [calibre-kfxgen-mod](https://github.com/yshalsager/calibre-kfxgen-mod)
 
 </td>
 <td valign="top" width="33%">
@@ -62,6 +63,7 @@ Also, I am known for android modding and related works, as I have been tinkering
 - [raycast-quran-search](https://github.com/yshalsager/raycast-quran-search)
 - [grayjay-plugins](https://github.com/yshalsager/grayjay-plugins)
 - [sqlite-tokenizer-ar](https://github.com/yshalsager/sqlite-tokenizer-ar)
+- [boko-python](https://github.com/yshalsager/boko-python)
 
 </td>
 </tr>
